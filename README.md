@@ -1,2 +1,2 @@
 # leet_code
-Just some practice problems
+Just some practice problems to exercise my software engineering skills
