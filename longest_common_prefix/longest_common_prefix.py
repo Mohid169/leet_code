@@ -1,7 +1,7 @@
 def longestCommonPrefix(strs):
         """
         :type strs: List[str]
-        :rtype: str
+        :return type: strs
         """
         if not strs:
             return ""
